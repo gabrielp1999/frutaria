@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frutaria/static/css/main.0a986ed9.css",
+    "main.js": "/frutaria/static/js/main.874869f2.js",
+    "index.html": "/frutaria/index.html",
+    "main.0a986ed9.css.map": "/frutaria/static/css/main.0a986ed9.css.map",
+    "main.874869f2.js.map": "/frutaria/static/js/main.874869f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a986ed9.css",
+    "static/js/main.874869f2.js"
+  ]
+}
